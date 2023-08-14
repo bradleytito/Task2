@@ -20,4 +20,5 @@ Once logged in you will see the following screen from which you can select the a
 
 ## Author
 Bradley Tito
+
 **Happy Task Managing!**
