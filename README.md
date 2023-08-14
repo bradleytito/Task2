@@ -18,4 +18,6 @@ Once logged in you will see the following screen from which you can select the a
 
 ![Options](https://github.com/bradleytito/Task2/assets/142005457/eaf95490-f913-4d45-a731-9d40355ea231)
 
+## Author
+Bradley Tito
 **Happy Task Managing!**
